@@ -42,9 +42,6 @@ Loop
 
 return
 
-9::ExitApp
-return
-
 0::
 Reload
 return
