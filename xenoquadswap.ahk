@@ -67,3 +67,7 @@ Loop, 6
     Sleep, 20
 }
 return
+
+0::
+Reload
+Return
