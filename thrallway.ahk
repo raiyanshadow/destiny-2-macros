@@ -7,8 +7,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 Numpad0::
 Loop
 {
-	Click
-	Sleep, 3500
+Click
+Sleep, 3500
 }
 Return
 
