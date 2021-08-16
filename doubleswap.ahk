@@ -35,3 +35,7 @@ Loop, 6
 	Click, Right Up
 }
 return 
+
+0::
+Reload
+Return
