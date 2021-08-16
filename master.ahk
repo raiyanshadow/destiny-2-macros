@@ -3,6 +3,15 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
+
+Numpad0::
+Loop
+{
+	Click
+	Sleep, 3500
+}
+Return
+
 !4::
 CoordMode,Mouse,Relative
 MouseGetPos, X, Y
