@@ -19,4 +19,9 @@ I am in no way responsible if you get banned using these, use it at your own ris
 - Thrallway AFK (To use, you need to be a warlock and have Trinity Ghoul equipped w/ catalyst. Melee resist is recommended, as well as double bow scavenger and finder. This can work with both thrallways, either the 1st or 2nd. To start, go to your usual spot you use to farm. You have two options: use devour, or sanguine alchemy, or both. If using devour, make sure to proc devour before macro usage. If using sanguine alchemy, make sure to place rift down before macro usage. Make sure to have lightning rod active before macro usage. As always kill switch is 0. Keybind: Numpad 0)
 - more soon...
 
+# Update Archive:
+## 2021-08-14:
+- Start of project!!! :)
+- Double Slug macro added.
+- Quad Swap macro added.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
