@@ -8,7 +8,15 @@ Numpad0::
 Loop
 {
 	Click
-	Sleep, 3500
+	Sleep, 100
+	Send {w Down}
+	Sleep, 200
+	Send {w Up}
+	Sleep, 200
+	Send {s Down}
+	Sleep, 200
+	Send {s Up}
+	Sleep, 3000
 }
 Return
 
