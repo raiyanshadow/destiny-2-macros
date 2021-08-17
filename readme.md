@@ -8,7 +8,9 @@ I am in no way responsible if you get banned using these, use it at your own ris
 
 # Latest Update:
 ## 2021-08-16: 
-Added killswitch feature to all macros! All you have to do is press 0, and your macro will instantly stop. It won't close the file, so you can press the keybind again to initiate the macro. Anti-AFK macro added. AFK Thrallway macro added.
+- Added killswitch feature to all macros! All you have to do is press 0, and your macro will instantly stop. It won't close the file, so you can press the keybind again to initiate the macro. 
+- Anti-AFK macro added. 
+- AFK Thrallway macro added.
 
 # List of current macros:
 - Double Slug (To use, first place 2 anarchy shots, then switch to your ENERGY weapon. It will automatically ADS. Requires 2 shotgun dexterity. Keybind: Ctrl+4)
