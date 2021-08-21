@@ -20,6 +20,13 @@ Loop
 }
 Return
 
+Numpad1::
+Click, Right Down
+Sleep, 190
+Send, {Space}{b}
+Click, Right Up
+Return
+
 !4::
 CoordMode,Mouse,Relative
 MouseGetPos, X, Y
