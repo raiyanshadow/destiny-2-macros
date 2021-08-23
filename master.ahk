@@ -167,3 +167,7 @@ return
 0::
 Reload
 return
+
+9::
+ExitApp
+Return
