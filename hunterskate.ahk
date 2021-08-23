@@ -9,3 +9,7 @@ Sleep, 190
 Send, {Space}{b}
 Click, Right Up
 Return
+
+9::
+ExitApp
+Return
