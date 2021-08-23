@@ -39,3 +39,7 @@ return
 0::
 Reload
 Return
+
+9::
+ExitApp
+Return
