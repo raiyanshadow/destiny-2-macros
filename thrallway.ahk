@@ -8,6 +8,13 @@ Numpad0::
 Loop
 {
   Click
+  Send {w Down}
+	Sleep, 100
+	Send {w Up}
+	Sleep, 100
+	Send {s Down}
+	Sleep, 100
+	Send {s Up}
   Sleep, 1000
 }
 Return
