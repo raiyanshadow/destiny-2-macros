@@ -9,13 +9,13 @@ Loop
 {
   Click
   Send {w Down}
-  Sleep, 100
+  Sleep, 50
   Send {w Up}
   Sleep, 100
   Send {s Down}
-  Sleep, 100
+  Sleep, 150
   Send {s Up}
-  Sleep, 1000
+  Sleep, 4000
 }
 Return
 
