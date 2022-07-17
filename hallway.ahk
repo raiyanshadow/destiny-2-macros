@@ -1,9 +1,9 @@
 ﻿SendMode, Input
 
-7::
+9::
 reload
 
-6::
+Numpad0::
 loop,
 {
     SendInput, q
@@ -15,12 +15,10 @@ loop,
     SendInput, {right Down}
     Sleep, 400
     SendInput, {right Up}
-    Sleep, 2500
+    Sleep, 2300
     Continue
     return
 }
 
-
-
-8::
+0::
 ExitApp
