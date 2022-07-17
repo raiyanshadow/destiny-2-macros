@@ -22,20 +22,21 @@ I am in no way responsible if you get banned using these, use it at your own ris
 - more soon...
 
 # Update Archive:
+
 ## 2021-08-28: 
 - Edit thrallway macro to accomodate S15 kinetic ammo changes. Now doesn't require any bow ammo finder and scavenger. Will still require devour and/or sanguine alchemy.
 
-## 2021-08-14:
-- Start of project!!! :)
-- Double Slug macro added.
-- Quad Swap macro added.
+## 2021-08-20:
+- Added Hunter Skating macro.
 
 ## 2021-08-16:
 - Added killswitch feature to all macros! All you have to do is press 0, and your macro will instantly stop. It won't close the file, so you can press the keybind again to initiate the macro. 
 - Anti-AFK macro added. 
 - AFK Thrallway macro added.
 
-## 2021-08-20:
-- Added Hunter Skating macro.
+## 2021-08-14:
+- Start of project!!! :)
+- Double Slug macro added.
+- Quad Swap macro added.
 
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
