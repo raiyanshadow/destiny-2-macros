@@ -12,5 +12,10 @@ Sleep 150
 Send, {Space}{MButton}
 Return
 
+0::
+Reload
+Return
 
-
+9::
+ExitApp
+Return
