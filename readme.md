@@ -10,7 +10,7 @@ I am in no way responsible if you get banned using these, use it at your own ris
 # Latest Update:
 
 ## 2022-07-31
--Added wellskate.ahk
+- Added wellskate.ahk
 
 # List of current macros:
 - (*Depecrated*) Double Slug (To use, first place 2 anarchy shots, then switch to your ENERGY weapon. It will automatically ADS. Requires 2 shotgun dexterity. Keybind: Ctrl+4)
