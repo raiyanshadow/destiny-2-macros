@@ -1,11 +1,13 @@
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 
+# Disclaimer: Do not use any macros here or elsewhere, otherwise your account has the risk of being banned.
+
 This repository will include essential destiny 2 macros, feel free to change them to your liking.
 I will have more macros soon.
 All macros are written in AutoHotKeyScript, make sure to download the AutoHotKey software. It's opensource and free: https://autohotkey.com
 Feel free to change the macro keybinds, which can be done by editing the, example, Numpad1:: to Numpad0:: . For a full list of ahk keys, see here: https://www.autohotkey.com/docs/KeyList.htm
 
-I am in no way responsible if you get banned using these, use it at your own risk. However, I think Bungie is leniant and doesn't usually ban you for macros.
+I am in no way responsible if you get banned using these, use it at your own risk. ~~However, I think Bungie is leniant and doesn't usually ban you for macros~~. So much for that leniancy :p
 
 # Latest Update:
 
